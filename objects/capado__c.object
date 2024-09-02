@@ -168,7 +168,7 @@
         <label>capado Name</label>
         <type>Text</type>
     </nameField>
-    <pluralLabel>capado-objects</pluralLabel>
+    <pluralLabel>capado-objectss</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
